@@ -1,32 +1,232 @@
-<h1 align="center">Hi 👋, I'm Sujal</h1>
-<h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaltonge384&label=Profile%20views&color=0e75b6&style=flat" alt="sujaltonge384" /> </p>
+<!--
+  GitHub Profile README
+  Username: sujaltonge384
+  Repository: sujaltonge384/sujaltonge384
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujaltonge384" alt="sujaltonge384" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [VastraaAI](https://github.com/Sujaltonge384/VastraAI)
+# 👋 Hey, I'm Sujal Tonge
 
-- 🌱 I’m currently learning **AI/ML & Generative AI**
+### Software Developer | Full-Stack Development | Exploring AI/ML & Generative AI
 
-- 👯 I’m looking to collaborate on [Devpulse](https://github.com/Sujaltonge384/Devpulse)
+Building practical web applications, exploring AI-powered solutions,
+and learning something new every day.
 
-- 🤝 I’m looking for help with [Devpulse](https://github.com/Sujaltonge384/Devpulse)
+<a href="https://github.com/sujaltonge384">
+  <img src="https://komarev.com/ghpvc/?username=sujaltonge384&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+</a>
+<a href="https://github.com/sujaltonge384?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
+<a href="mailto:sujaltonge@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-- 💬 Ask me about **Fullstack web dev**
+</div>
 
-- 📫 How to reach me **sujaltonge@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 About Me
+
+- 🔭 Currently working on **[VastraAI](https://github.com/sujaltonge384/VastraAI)**
+- 🌱 Currently learning **AI/ML concepts and Generative AI**
+- 💻 Interested in **Full-Stack Development and Software Engineering**
+- 🧠 Practicing Data Structures & Algorithms and problem-solving
+- 🤝 Open to collaborating on interesting software projects
+- 📫 Reach me at **[sujaltonge@gmail.com](mailto:sujaltonge@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/sujal tonge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal tonge" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sujaltonge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sujaltonge" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sujal_tonge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujal_tonge" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java" alt="Programming languages"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Frontend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujaltonge384&show_icons=true&locale=en&layout=compact" alt="sujaltonge384" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux" alt="Frontend technologies"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujaltonge384&show_icons=true&locale=en" alt="sujaltonge384" /></p>
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend technologies"/>
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database technologies"/>
+</p>
+
+### Tools & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,gcp,linux" alt="Developer tools"/>
+</p>
+
+### AI / ML — Currently Exploring
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-Learning-8A2BE2?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-Learning-0E9F6E?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/OpenCLIP-Exploring-blue?style=for-the-badge" alt="OpenCLIP"/>
+  <img src="https://img.shields.io/badge/Vector_Search-Exploring-orange?style=for-the-badge" alt="Vector search"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ VastraAI</h3>
+      <p>
+        An AI-powered fashion e-commerce platform exploring visual
+        product discovery and image similarity search.
+      </p>
+      <p>
+        <strong>Technologies:</strong><br/>
+        Next.js · React · FastAPI · PostgreSQL · Prisma · pgvector · OpenCLIP
+      </p>
+      <a href="https://github.com/sujaltonge384/VastraAI">
+        View Repository →
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 DevPulse</h3>
+      <p>
+        A full-stack productivity dashboard with REST APIs,
+        authentication, persistent data, and API caching.
+      </p>
+      <p>
+        <strong>Technologies:</strong><br/>
+        React · Redux Toolkit Query · Node.js · Express · MongoDB · JWT
+      </p>
+      <a href="https://github.com/sujaltonge384/Devpulse">
+        View Repository →
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sujaltonge384&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujaltonge384&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Most used programming languages"
+  />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=sujaltonge384&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sujaltonge384&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sujaltonge384&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    alt="GitHub profile trophies"
+    width="100%"
+  />
+
+</div>
+
+---
+
+## 💻 Contribution Activity
+
+<div align="center">
+
+  <a href="https://github.com/sujaltonge384">
+    <img
+      src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?style=for-the-badge&logo=github"
+      alt="Explore GitHub repositories"
+    />
+  </a>
+
+  <a href="https://github.com/sujaltonge384?tab=stars">
+    <img
+      src="https://img.shields.io/badge/GitHub-My%20Stars-yellow?style=for-the-badge&logo=github"
+      alt="Starred repositories"
+    />
+  </a>
+
+  <a href="https://github.com/sujaltonge384?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/GitHub-All%20Repositories-blue?style=for-the-badge&logo=github"
+      alt="All repositories"
+    />
+  </a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/sujaltonge384">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="mailto:sujaltonge@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  ### 💡 Learn. Build. Improve. Repeat.
+
+</div>
